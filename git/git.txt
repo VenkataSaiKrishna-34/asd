@@ -1,0 +1,11 @@
+Version control system aims to keep track of changes.
+
+differentiate two files using:
+diff
+diff -u
+wdiff
+.
+.
+.
+
+patch
